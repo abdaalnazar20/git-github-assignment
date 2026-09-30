@@ -7,3 +7,5 @@ This project demonstrates the basic workflow of Git,branches and Github
 -Branches
 -Remote Repositories
 -Github
+## Documentation
+This section was created on the feature-documentation branch
